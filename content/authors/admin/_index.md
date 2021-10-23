@@ -5,40 +5,18 @@ avatar_filename: img_5055.jpg
 bio: My research interests include distributed algorithms, data modelling and
   topological analysis.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  - distributed algorithms
+  - data modelling and topological analysis.
+social: []
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Bristol
+    url: https://www.bristol.ac.uk/people/person/Phani-Chitti-7da1bc50-27f2-49f3-b645-8bcb16d266dc/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Data Modelling and Distributed Systems
+      institution: University of Bristol
+      year: 2020
+email: chitti.phani@gmail.com
 superuser: true
 highlight_name: true
 ---
