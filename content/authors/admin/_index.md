@@ -5,8 +5,10 @@ avatar_filename: ""
 bio: My research interests include distributed algorithms, data modelling and
   topological analysis.
 interests:
-  - distributed algorithms
-  - data modelling and topological analysis.
+  - Algorithms
+  - Distributed algorithms
+  - Data modelling
+  - Data engineering and Topological analysis.
 social: []
 organizations:
   - name: University of Bristol
