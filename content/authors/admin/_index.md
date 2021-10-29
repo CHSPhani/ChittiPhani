@@ -1,7 +1,7 @@
 ---
 title: CHITTI S PHANI
 role: PhD Researcher
-avatar_filename: myphoto.png
+avatar_filename: ""
 bio: My research interests include distributed algorithms, data modelling and
   topological analysis.
 interests:
