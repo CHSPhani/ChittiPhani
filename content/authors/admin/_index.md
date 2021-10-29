@@ -18,7 +18,7 @@ education:
   courses:
     - course: PhD in Data Modelling and Distributed Systems
       institution: University of Bristol
-      year: 2020
+      year: 2022
 email: chitti.phani@gmail.com
 superuser: true
 highlight_name: true
