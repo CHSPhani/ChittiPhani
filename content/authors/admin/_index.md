@@ -2,13 +2,14 @@
 title: CHITTI S PHANI
 role: PhD Researcher
 avatar_filename: ""
-bio: My research interests include distributed algorithms, data modelling and
-  topological analysis.
+bio: My research interests include algorithms distributed algorithms, data
+  modelling, data engineering, topological analysis.
 interests:
   - Algorithms
   - Distributed algorithms
   - Data modelling
-  - Data engineering and Topological analysis.
+  - Data engineering
+  - Topological analysis.
 social: []
 organizations:
   - name: University of Bristol
